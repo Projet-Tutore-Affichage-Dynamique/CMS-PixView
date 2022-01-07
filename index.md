@@ -6,6 +6,8 @@
 
 L’affichage dynamique est un outil de communication, qui permet de diffuser des informations, sous forme de contenus multimédias, dans les lieux publics sur un écran, un mur d'écrans ou par vidéo-projection. Ici, l’idée est de réaliser un gestionnaire d’affichage dynamique pour gérer les différents dispositifs d’affichage d’une structure. On peut prendre l’exemple de l’IUT : plusieurs écrans sont présents dans les couloirs, ces écrans sont tous reliés à un service qui gère ce qu’ils affichent.
 
+![Screenshot from 2022-01-07 13-32-58](https://user-images.githubusercontent.com/62664334/148545439-26849164-048a-4d48-8a7f-6bf1fd980355.png)
+
 ### Les acteurs
 
 Nous avons identifié **deux acteurs principaux** : le gestionnaire de domaine, ainsi que les gestionnaires de contenu.
