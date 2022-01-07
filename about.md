@@ -1,3 +1,3 @@
 ## A propos
 
-[A propos](docs/about.md) / [Documentation](docs/docs.md) / [Ressources](docs/ressources.md)
+[Le projet](index.md) / [A propos](about.md) / [Documentation](docs.md) / [Ressources](ressources.md)
