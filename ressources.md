@@ -1,6 +1,7 @@
 ## Ressources
 
-[Le projet](index.md) / [A propos](about.md) / [Documentation](docs.md) / [Ressources](ressources.md)
+[Le projet](index.md) / [A propos](about.md) / [Documentation](docs.md) / **Ressources** / [Avancée](avancee.md)
+
 
 ### Diagramme de cas d'utilisation
 ![Diagramme_cas_utilisation](https://user-images.githubusercontent.com/62664334/148544540-3eecba68-aa4e-4a58-801d-eed5c49c59c6.png)
