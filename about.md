@@ -1,6 +1,6 @@
 # A propos
 
-**Le projet** / [A propos](about.md) / [Documentation](docs.md) / [Ressources](ressources.md) / [Avancée](avancee.md)
+[Le projet](index.md) / **A propos** / [Documentation](docs.md) / [Ressources](ressources.md) / [Avancée](avancee.md)
 
 ### Composition
 #### Projet tutoré : Affichage dynamique
