@@ -12,3 +12,6 @@
 ### Maquètes des interfaces back-end
 ![Screenshot from 2022-01-07 13-32-58](https://user-images.githubusercontent.com/62664334/148544802-3ad4ec0f-f613-4235-b276-54b2959f4a59.png)
 ![Screenshot from 2022-01-07 13-33-12](https://user-images.githubusercontent.com/62664334/148544805-f288cd28-a6f3-48c7-a5ac-0177fdd20753.png)
+
+### Base de données
+![shema_sql](https://user-images.githubusercontent.com/62664334/155331724-abb82ebe-22f5-46de-b7bf-af17870ba28f.png)
