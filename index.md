@@ -1,7 +1,7 @@
 
 ## Bienvenue sur PixView
 
-[A propos](about.md) / [Documentation](docs.md) / [Ressources](ressources.md) / [Avancée](avancee.md)
+**Le projet** / [A propos](about.md) / [Documentation](docs.md) / [Ressources](ressources.md) / [Avancée](avancee.md)
 
 ### Le Projet
 
