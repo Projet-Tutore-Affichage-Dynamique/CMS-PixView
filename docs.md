@@ -1,3 +1,3 @@
 ## Documentations
 
-[Le projet](index.md) / [A propos](about.md) / [Documentation](docs.md) / [Ressources](ressources.md) / [Avancée](avancee.md)
+[Le projet](index.md) / [A propos](about.md) / **Documentation** / [Ressources](ressources.md) / [Avancée](avancee.md)
