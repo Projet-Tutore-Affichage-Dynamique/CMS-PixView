@@ -30,3 +30,8 @@ Nous avons également identifié **trois acteurs secondaires** : l’application
 - L’application sur les dispositifs d'affichage devra être capable d’afficher différents types de données (page HTML, image, vidéo, etc…). Également, une interruption d’une séquence d’affichage pour l’affichage d’un message d’urgence devra être possible.
 - Le serveur aura pour rôle de stocker les informations d’affichage, notamment les séquences d'affichage temporisées.
 - Les usagers, qui sont des acteurs passifs, ont comme simple rôle de consulter les différents dispositifs d’affichage.
+
+# Video d'utilisation
+[pixview_video.zip](https://github.com/Projet-Tutore-Affichage-Dynamique/CMS-PixView/files/8442517/pixview_video.zip)
+Dans cette vidéo, un utilisateur connecte un dispositif d'affichage (ici, un ordinateur) à l'API. On entre l'adresse du server (Docketu) et l'API renvoie sous format json les contenus à afficher. Par exemple, on y vois une image, du markdown et un pdf qui sont tous affiché avec des temps différents. Ici, pour le bien de la vidéo, et pour ne pas prendre trop de temps, nous avons donner un court temps en seconde. 
+
